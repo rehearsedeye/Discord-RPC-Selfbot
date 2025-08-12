@@ -9,7 +9,7 @@ module.exports = {
     "status": "",
 
     "game": {
-        "applicationID": "",
+        "applicationID": "1404903769640013935",
 
         "name": "", // title
         "details": "", // first row below title
@@ -56,3 +56,4 @@ module.exports = {
         "endTimestamp": "",
     }
 }
+
