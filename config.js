@@ -9,7 +9,7 @@ module.exports = {
     "status": "",
 
     "game": {
-        "applicationID": "",
+        "applicationID": "1404903769640013935",
 
         "name": "", // title
         "details": "", // first row below title
@@ -26,7 +26,7 @@ module.exports = {
         "endTimestamp": "" // time left since this timestamp (decrease --)
     },
     "twitch": {
-        "applicationID": "",
+        "applicationID": "1404903769640013935",
         "url": "", // twitch channel link
 
         "details": "", // title
@@ -56,3 +56,4 @@ module.exports = {
         "endTimestamp": "",
     }
 }
+
